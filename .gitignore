@@ -1,0 +1,14 @@
+build/
+*.tmp
+Thumbs.db
+*.csv
+
+# Abandoned Arduino Cloud provisioning experiment - contains a hardcoded
+# WiFi SSID/password, never to be published.
+AtticInsulationMassLogger_Cloud/
+AtticInsulationMassLogger_Cloud_Avgs/
+AtticInsulationMassLogger/AtticInsulationMassLogger_Cloud.ino/
+AtticInsulationMassLogger_v2/AtticInsulationMassLogger_Cloud.ino/
+AtticInsulationMassLogger_Cloud_Avg.zip
+CloudProvisionValidator_v1_19200baud.zip
+UNO_R4_CloudProvision_Validator.zip
